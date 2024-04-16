@@ -6,9 +6,13 @@ This Jupyter notebook delves into an insightful analysis of Nike shoe reviews us
 ## Key Features of the Analysis:
 
 Data Cleaning and Preparation: The dataset had irregularities in the 'Review Date' column with missing values and out of sequence dates, which were addressed by converting to proper date formats and handling missing entries with "NaT" to maintain the integrity of trend analyses.
+
 Data Visualization: Various distributions such as rating, price, and promotional status are visualized to depict consumer preferences and purchasing behaviors. This includes analysis of price sensitivity and promotional influence on consumer reviews.
+
 Sentiment Analysis: Utilizing Textblob and WordCloud to extract sentiment from the text reviews, providing deeper insight into customer sentiments towards Nike products.
+
 Predictive Modeling: Implementation of logistic regression to predict outcomes based on the review data, enhancing the ability to foresee customer satisfaction.
+
 Correlation Analysis: Investigating the relationships between different variables with a heatmap to understand the interdependencies, especially the strong correlations between prices.
 
 
