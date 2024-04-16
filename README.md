@@ -19,6 +19,9 @@ Correlation Analysis: Investigating the relationships between different variable
 ## Objectives:
 
 Identify Improvement Areas: By analyzing customer ratings and reviews, pinpoint specific aspects of the product that can be improved.
+
 Tailor Marketing Strategies: Insights from promotional reviews and price distributions help tailor marketing efforts to match consumer expectations and behaviors.
+
 Enhance Product Offerings: Understanding price sensitivity and customer preferences aids in adjusting the product lines to better meet market demands.
+
 This repository aims to leverage data science techniques to translate complex data into actionable insights for business strategy enhancement, particularly in the footwear industry. The insights derived from this notebook are intended to aid Nike in refining its product development, pricing strategies, and overall customer engagement strategies.
